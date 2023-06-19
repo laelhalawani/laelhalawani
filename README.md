@@ -1,6 +1,6 @@
 - 👋 IT with a knack for Python, C#, and JavaScript
-- 🌱 Currently diving into Node.js and mastering the theatrical art of Playwright.
-- 💞️ Passionate about squashing bugs and crafting code for fun and functionality.
+- 🌱 IntershopBO & Jenkins + Node.js and art of Playwright.
+- 💞️ Passionate about squashing bugs
 - 📫 lael.halawani.qadev@gmail.com
 
 <!---
