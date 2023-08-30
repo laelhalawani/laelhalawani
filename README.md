@@ -1,6 +1,6 @@
+- 💞️ Passionate about AI and ML
 - 👋 IT with a knack for Python, C#, and JavaScript
 - 🌱 IntershopBO & Jenkins + Node.js and art of Playwright.
-- 💞️ Passionate about squashing bugs
 - 📫 lael.halawani.qadev@gmail.com
 
 <!---
