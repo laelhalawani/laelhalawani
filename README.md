@@ -1,7 +1,7 @@
 - 💞️ Passionate about AI and ML
 - 👋 IT with a knack for Python, C#, and JavaScript
-- 🌱 IntershopBO & Jenkins + Node.js and art of Playwright.
-- 📫 lael.halawani.qadev@gmail.com
+- 🌱 Enterprise environment and stacks
+- 📫 laelhalawani@gmail.com
 
 <!---
 laelhalawani/laelhalawani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
